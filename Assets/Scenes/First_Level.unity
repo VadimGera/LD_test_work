@@ -260,6 +260,7 @@ Transform:
   - {fileID: 3490315263484182162}
   - {fileID: 223958520}
   - {fileID: 6430951759474637841}
+  - {fileID: 3925148522213068290}
   m_Father: {fileID: 1591434031}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!224 &459854893 stripped
@@ -2012,6 +2013,68 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ca3cda582d5a06c468d8fc710a70fb93, type: 3}
+--- !u!1001 &3925148522213068289
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 295185707}
+    m_Modifications:
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1109
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 523
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7226566820733438507, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+      propertyPath: m_Name
+      value: Aquapark_ball
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+--- !u!4 &3925148522213068290 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3933746528393687477, guid: 0085f379bd9decf47a3228b08ac0ae8b, type: 3}
+  m_PrefabInstance: {fileID: 3925148522213068289}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4869885949079467078
 PrefabInstance:
   m_ObjectHideFlags: 0
